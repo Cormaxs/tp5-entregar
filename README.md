@@ -82,18 +82,10 @@ El objetivo de este proyecto es desarrollar una aplicación web que consuma dato
 
 ---
 
-## Capturas de Pantalla
-1. **Dashboard Principal**
-   ![Dashboard](https://via.placeholder.com/800x400)
-
-2. **Formulario de Agregar País**
-   ![Agregar País](https://via.placeholder.com/800x400)
-
----
 
 ## Consideraciones Especiales
 - **Validaciones**:
-  - Las validaciones están activas tanto en el frontend como en el backend para garantizar la integridad de los datos.
+  - Las validaciones están activas en el backend para garantizar la integridad de los datos.
   - Por ejemplo, el nombre oficial debe tener entre 3 y 90 caracteres, y las fronteras deben ser códigos de 3 letras mayúsculas.
 - **Pruebas**:
   - Prueba ingresando datos inválidos para verificar que las validaciones funcionan correctamente.
@@ -103,7 +95,7 @@ El objetivo de este proyecto es desarrollar una aplicación web que consuma dato
 ## Próximos Pasos
 - Añadir autenticación para limitar el acceso a ciertas funcionalidades.
 - Mejorar el diseño del frontend utilizando componentes adicionales de Bootstrap.
-
+- Ponerle imagenes a los paises
 ---
 
 ## Créditos
