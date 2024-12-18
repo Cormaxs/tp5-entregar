@@ -1,0 +1,1 @@
+app.mjs -> routes -> controller -> repositories -> controller -> renderiza los datos de views
